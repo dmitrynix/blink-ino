@@ -7,12 +7,18 @@
 
 3. Clone Arduino-Makefile:
 
-    % git clone git@github.com:sudar/Arduino-Makefile.git ~/Arduino-Makefile
+```
+% git clone git@github.com:sudar/Arduino-Makefile.git ~/Arduino-Makefile
+```
 
 4. Install *python-pyserial* dependencies:
 
-    # pacman -S python-pyserial
+```
+# pacman -S python-pyserial
+```
 
 5. Compile and send:
 
-    % make && make install
+```
+% make && make install
+```
